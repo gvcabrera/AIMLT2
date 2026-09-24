@@ -1,0 +1,501 @@
+cliente_id,genero,rango_edad,distrito,tipo_cliente,monto_promedio_mensual,cantidad_transacciones_mes,tipo_transaccion_frecuente,frecuencia_uso_app,sesiones_mes,dias_desde_ultimo_login,interaccion_promociones,promociones_abiertas,cantidad_quejas,ultima_queja_dias,productos_activos,uso_biometria,notificaciones_activas,uso_pago_servicios,uso_transferencias,abandono
+C0001,Masculino,18-25,Santa Tecla,Plata,242,12,PagoServicios,8,44,139,Ninguna,8,0,309,1,Si,No,Si,No,Si
+C0002,Femenino,18-25,San Miguel,Oro,2139,49,Transferencias,12,14,86,Alta,5,0,310,3,Si,No,Si,No,No
+C0003,Masculino,60+,Santa Tecla,Oro,4627,6,Mixto,8,37,49,Alta,4,5,41,2,Si,No,No,No,No
+C0004,Femenino,26-35,Mejicanos,Plata,786,69,Mixto,8,44,165,Media,2,0,237,4,No,Si,No,Si,No
+C0005,Masculino,18-25,Mejicanos,Plata,167,59,PagoServicios,9,46,80,Ninguna,2,1,127,6,No,No,No,No,Si
+C0006,Masculino,26-35,Usulutan,Plata,873,50,PagoPrestamos,20,10,160,Ninguna,7,1,271,3,Si,Si,No,No,Si
+C0007,Masculino,36-45,Apopa,Plata,103,14,Mixto,10,47,67,Media,10,4,260,5,Si,Si,No,Si,Si
+C0008,Masculino,60+,Mejicanos,Plata,214,73,Transferencias,3,20,61,Media,7,0,36,5,Si,Si,No,Si,No
+C0009,Femenino,60+,Ahuachapan,Plata,316,48,PagoPrestamos,29,49,176,Baja,8,1,232,1,Si,Si,Si,No,Si
+C0010,Masculino,60+,Usulutan,Plata,325,9,Transferencias,28,46,161,Media,5,0,37,5,Si,No,No,Si,No
+C0011,Masculino,60+,Ahuachapan,Plata,903,56,Recargas,14,27,48,Alta,6,0,240,6,Si,Si,Si,No,No
+C0012,Femenino,18-25,Soyapango,Plata,649,32,Transferencias,15,28,46,Ninguna,8,2,51,1,Si,Si,Si,Si,No
+C0013,Femenino,46-60,Sonsonate,Plata,510,59,Recargas,14,11,97,Ninguna,8,0,339,6,No,Si,Si,No,Si
+C0014,Masculino,18-25,Ahuachapan,Oro,4064,68,PagoServicios,2,4,12,Ninguna,8,4,42,2,Si,Si,Si,No,Si
+C0015,Masculino,60+,Soyapango,Plata,140,27,Mixto,23,27,168,Baja,5,4,123,3,No,Si,No,No,No
+C0016,Femenino,18-25,San Salvador,Plata,676,45,Transferencias,29,35,54,Baja,3,4,190,3,Si,No,No,Si,Si
+C0017,Femenino,18-25,San Miguel,Plata,209,44,PagoServicios,22,10,69,Media,10,2,136,5,No,No,Si,Si,No
+C0018,Femenino,36-45,San Salvador,Plata,889,55,TarjetaCredito,1,17,41,Ninguna,1,5,39,6,Si,Si,No,Si,Si
+C0019,Femenino,26-35,San Salvador,Plata,915,14,Recargas,25,23,53,Media,8,5,209,5,Si,Si,Si,Si,No
+C0020,Femenino,18-25,San Miguel,Oro,4205,14,PagoPrestamos,28,43,63,Media,0,2,241,2,Si,No,No,No,No
+C0021,Masculino,26-35,San Salvador,Oro,2345,69,Recargas,1,5,71,Ninguna,1,2,134,2,No,Si,Si,No,Si
+C0022,Femenino,36-45,Apopa,Oro,1474,56,Transferencias,17,37,48,Alta,8,2,352,6,Si,No,No,Si,No
+C0023,Femenino,60+,Mejicanos,Oro,3949,38,TarjetaCredito,5,33,79,Ninguna,3,5,216,6,No,Si,No,No,Si
+C0024,Masculino,36-45,Santa Tecla,Plata,904,28,TarjetaCredito,16,42,82,Ninguna,2,3,338,1,No,No,Si,Si,Si
+C0025,Femenino,26-35,Soyapango,Plata,147,74,PagoServicios,23,40,18,Ninguna,6,3,254,4,Si,Si,Si,Si,No
+C0026,Femenino,26-35,San Miguel,Oro,3122,60,Mixto,17,4,142,Alta,8,1,305,3,No,No,No,Si,Si
+C0027,Femenino,46-60,Santa Tecla,Oro,3612,10,Mixto,10,50,133,Media,3,3,140,3,No,Si,Si,Si,Si
+C0028,Masculino,46-60,San Miguel,Oro,2700,54,PagoPrestamos,29,22,138,Ninguna,9,3,357,1,No,No,Si,No,Si
+C0029,Femenino,46-60,Apopa,Plata,852,35,PagoPrestamos,16,39,56,Media,0,3,200,3,No,Si,No,Si,No
+C0030,Masculino,46-60,Ahuachapan,Plata,127,7,Recargas,13,28,34,Media,5,3,109,4,No,No,No,No,No
+C0031,Femenino,36-45,Santa Ana,Plata,867,6,Transferencias,8,23,57,Alta,3,5,11,5,Si,Si,Si,No,No
+C0032,Masculino,60+,Soyapango,Plata,362,21,Recargas,4,11,155,Alta,9,4,14,3,No,No,Si,Si,Si
+C0033,Masculino,18-25,Santa Tecla,Oro,4300,48,Transferencias,17,37,10,Ninguna,10,2,175,1,No,No,Si,No,No
+C0034,Femenino,46-60,San Miguel,Plata,851,76,Recargas,11,18,157,Ninguna,3,4,45,3,No,Si,No,No,Si
+C0035,Femenino,18-25,Sonsonate,Oro,2998,36,TarjetaCredito,1,23,66,Baja,8,2,98,1,Si,No,No,Si,No
+C0036,Femenino,46-60,Sonsonate,Oro,2206,48,PagoPrestamos,18,26,177,Baja,8,1,177,4,No,No,No,No,Si
+C0037,Femenino,36-45,Soyapango,Plata,297,62,Recargas,24,48,137,Media,9,5,269,5,No,Si,Si,No,Si
+C0038,Masculino,36-45,San Miguel,Plata,825,17,Mixto,28,18,11,Baja,7,0,53,1,No,No,No,No,No
+C0039,Femenino,26-35,San Salvador,Plata,982,7,PagoServicios,5,5,102,Alta,9,3,156,1,Si,Si,No,Si,Si
+C0040,Femenino,46-60,Sonsonate,Plata,702,27,Mixto,7,37,158,Alta,4,0,339,1,Si,Si,Si,Si,No
+C0041,Masculino,18-25,Apopa,Plata,708,59,Transferencias,22,3,59,Baja,3,2,136,6,Si,No,Si,Si,Si
+C0042,Masculino,36-45,San Miguel,Plata,269,39,Mixto,13,39,145,Ninguna,4,2,257,5,No,No,Si,Si,Si
+C0043,Femenino,36-45,Ahuachapan,Plata,193,23,PagoPrestamos,17,37,150,Baja,10,0,227,3,Si,No,No,Si,Si
+C0044,Femenino,36-45,Apopa,Plata,786,52,TarjetaCredito,2,22,105,Ninguna,7,5,46,3,No,No,Si,No,Si
+C0045,Masculino,60+,Sonsonate,Plata,292,27,Recargas,18,40,127,Ninguna,2,5,148,4,No,Si,Si,Si,Si
+C0046,Masculino,36-45,Usulutan,Plata,517,64,Mixto,10,8,118,Media,8,0,362,3,No,No,No,Si,No
+C0047,Femenino,60+,San Miguel,Plata,713,44,TarjetaCredito,9,9,17,Ninguna,0,2,145,6,No,No,Si,No,No
+C0048,Femenino,36-45,Mejicanos,Plata,656,74,PagoPrestamos,8,21,48,Media,6,5,23,3,No,No,No,Si,No
+C0049,Femenino,18-25,San Miguel,Plata,704,19,PagoPrestamos,28,29,25,Ninguna,10,4,80,1,No,No,No,No,Si
+C0050,Masculino,36-45,Usulutan,Plata,424,31,Mixto,22,49,124,Alta,4,4,117,6,Si,No,Si,Si,Si
+C0051,Femenino,26-35,Santa Tecla,Diamante,11523,32,TarjetaCredito,14,4,75,Baja,9,2,350,2,Si,Si,Si,No,Si
+C0052,Masculino,46-60,Ahuachapan,Plata,572,60,Recargas,22,30,65,Alta,8,5,81,1,No,No,No,No,No
+C0053,Femenino,46-60,Santa Tecla,Plata,493,38,Transferencias,27,7,60,Baja,10,3,203,3,Si,Si,No,No,Si
+C0054,Masculino,60+,Mejicanos,Plata,294,6,Recargas,26,44,168,Media,7,5,18,5,No,Si,Si,No,Si
+C0055,Femenino,46-60,San Miguel,Plata,905,33,PagoPrestamos,26,34,128,Media,4,2,174,1,No,Si,Si,Si,No
+C0056,Femenino,60+,Mejicanos,Plata,504,34,TarjetaCredito,13,35,31,Baja,10,3,191,1,Si,No,Si,No,Si
+C0057,Masculino,18-25,Sonsonate,Diamante,8345,39,PagoPrestamos,4,8,35,Alta,1,0,121,5,Si,No,No,No,No
+C0058,Femenino,60+,San Miguel,Oro,1406,48,PagoServicios,15,32,157,Baja,7,3,121,3,Si,No,No,Si,Si
+C0059,Femenino,36-45,Soyapango,Diamante,8726,7,Recargas,8,6,169,Alta,2,1,290,2,Si,Si,Si,Si,No
+C0060,Femenino,26-35,Ahuachapan,Plata,979,4,PagoServicios,1,35,64,Alta,5,1,122,5,No,Si,Si,No,No
+C0061,Masculino,26-35,Apopa,Plata,863,29,TarjetaCredito,2,29,92,Alta,10,4,267,3,No,Si,Si,No,Si
+C0062,Femenino,46-60,Santa Ana,Plata,554,17,Recargas,20,21,155,Alta,10,1,300,5,No,No,No,No,No
+C0063,Femenino,18-25,Santa Ana,Oro,4596,53,Recargas,27,36,55,Ninguna,7,3,205,4,Si,No,No,No,No
+C0064,Femenino,36-45,San Miguel,Oro,1275,48,PagoServicios,18,6,23,Alta,0,3,301,5,No,Si,No,No,No
+C0065,Femenino,18-25,Santa Tecla,Oro,1425,29,Transferencias,12,33,54,Ninguna,8,1,189,1,No,Si,No,Si,No
+C0066,Femenino,18-25,San Miguel,Plata,880,73,Mixto,13,23,1,Media,1,1,73,6,Si,Si,Si,No,No
+C0067,Femenino,46-60,Mejicanos,Plata,419,20,PagoServicios,25,50,145,Alta,9,4,26,6,Si,No,No,No,No
+C0068,Femenino,60+,Sonsonate,Plata,320,76,PagoPrestamos,17,8,88,Alta,10,3,158,1,Si,No,Si,Si,Si
+C0069,Masculino,36-45,Soyapango,Oro,2047,56,PagoServicios,5,21,30,Ninguna,6,0,273,6,Si,No,Si,No,No
+C0070,Masculino,46-60,San Salvador,Plata,179,54,Recargas,4,37,109,Ninguna,6,4,11,3,Si,No,No,Si,Si
+C0071,Femenino,18-25,Soyapango,Plata,510,22,Transferencias,17,26,79,Baja,10,5,59,5,Si,No,No,Si,Si
+C0072,Masculino,18-25,San Miguel,Plata,277,64,PagoPrestamos,25,49,167,Media,9,0,297,4,No,No,Si,No,No
+C0073,Masculino,46-60,Sonsonate,Oro,2126,58,Transferencias,2,4,90,Alta,5,4,147,1,Si,No,No,Si,Si
+C0074,Femenino,60+,Soyapango,Plata,587,11,TarjetaCredito,21,4,115,Baja,2,0,21,2,No,No,Si,No,No
+C0075,Femenino,36-45,Apopa,Plata,446,13,TarjetaCredito,22,4,161,Baja,6,5,146,3,Si,No,Si,Si,Si
+C0076,Femenino,36-45,Apopa,Plata,825,68,Transferencias,21,20,143,Baja,10,3,217,5,No,Si,No,No,No
+C0077,Masculino,26-35,Mejicanos,Diamante,6856,13,TarjetaCredito,25,9,39,Baja,8,0,270,1,No,Si,No,Si,No
+C0078,Masculino,26-35,Ahuachapan,Oro,3954,79,Recargas,25,3,105,Media,7,2,120,5,Si,No,No,Si,No
+C0079,Femenino,60+,Sonsonate,Plata,388,78,PagoServicios,28,33,135,Media,4,3,27,6,No,No,Si,Si,No
+C0080,Femenino,18-25,San Miguel,Plata,625,45,Transferencias,14,28,23,Ninguna,0,1,203,5,No,Si,No,Si,No
+C0081,Femenino,26-35,San Salvador,Plata,201,5,Recargas,30,42,85,Media,7,1,357,2,No,No,Si,Si,No
+C0082,Masculino,36-45,Soyapango,Oro,4852,31,Recargas,4,39,135,Alta,0,3,123,4,No,Si,Si,No,Si
+C0083,Masculino,60+,Ahuachapan,Plata,247,24,Mixto,22,1,157,Media,1,2,269,3,Si,Si,No,No,Si
+C0084,Masculino,46-60,Mejicanos,Plata,116,75,Mixto,25,5,88,Alta,5,1,69,1,No,No,Si,No,No
+C0085,Femenino,26-35,San Miguel,Plata,894,6,Recargas,30,3,75,Alta,4,1,264,4,No,No,Si,Si,Si
+C0086,Femenino,36-45,San Salvador,Oro,2120,50,Recargas,6,24,111,Ninguna,7,3,355,4,No,No,Si,No,No
+C0087,Masculino,46-60,Ahuachapan,Diamante,7407,38,Recargas,15,21,26,Baja,9,0,219,2,No,No,No,Si,No
+C0088,Femenino,60+,Apopa,Plata,910,21,Transferencias,5,5,171,Ninguna,9,5,348,4,Si,Si,Si,Si,Si
+C0089,Femenino,36-45,Apopa,Diamante,6257,10,TarjetaCredito,5,44,115,Baja,8,2,188,4,No,No,Si,Si,Si
+C0090,Masculino,26-35,Sonsonate,Plata,675,79,Recargas,23,50,66,Ninguna,7,5,103,1,Si,Si,No,Si,Si
+C0091,Femenino,18-25,Mejicanos,Oro,1266,23,Recargas,17,35,74,Media,3,2,63,2,Si,Si,No,Si,No
+C0092,Femenino,60+,Ahuachapan,Plata,922,51,Mixto,24,40,22,Baja,7,0,270,4,No,Si,Si,No,No
+C0093,Masculino,46-60,Sonsonate,Oro,1526,17,PagoPrestamos,17,50,141,Media,0,5,64,5,Si,No,Si,Si,Si
+C0094,Femenino,26-35,Mejicanos,Diamante,7327,39,TarjetaCredito,18,6,64,Baja,1,1,258,6,Si,Si,Si,No,Si
+C0095,Masculino,18-25,Santa Ana,Plata,756,4,PagoPrestamos,29,17,166,Ninguna,10,1,280,3,No,No,Si,No,Si
+C0096,Femenino,46-60,Santa Ana,Oro,2801,41,Mixto,11,31,118,Baja,5,1,205,2,No,Si,No,Si,Si
+C0097,Femenino,18-25,Santa Tecla,Plata,244,21,Recargas,30,19,98,Ninguna,9,4,161,2,Si,No,No,No,Si
+C0098,Femenino,46-60,San Salvador,Plata,502,37,PagoPrestamos,20,16,55,Baja,10,4,345,4,No,Si,Si,No,Si
+C0099,Masculino,36-45,Mejicanos,Oro,1186,37,Transferencias,13,4,145,Media,8,4,231,5,No,Si,Si,Si,Si
+C0100,Femenino,36-45,Mejicanos,Plata,474,6,Transferencias,5,13,154,Ninguna,5,4,243,5,No,Si,Si,No,Si
+C0101,Femenino,26-35,Apopa,Diamante,7452,39,PagoPrestamos,27,38,86,Ninguna,0,4,189,3,Si,No,No,Si,Si
+C0102,Femenino,36-45,Ahuachapan,Plata,838,32,Transferencias,19,31,43,Ninguna,1,4,98,1,No,No,No,Si,Si
+C0103,Femenino,26-35,Apopa,Plata,726,67,PagoServicios,18,48,15,Media,5,5,340,4,No,No,Si,No,No
+C0104,Femenino,60+,Mejicanos,Oro,3953,32,Recargas,18,42,177,Ninguna,4,2,116,3,No,Si,No,No,Si
+C0105,Femenino,36-45,Usulutan,Diamante,7241,51,Recargas,25,19,31,Ninguna,2,4,149,1,No,Si,No,No,No
+C0106,Femenino,46-60,Soyapango,Plata,651,79,Mixto,19,45,69,Alta,3,1,125,1,Si,Si,Si,Si,No
+C0107,Femenino,36-45,Sonsonate,Plata,889,26,Recargas,11,36,40,Ninguna,4,3,331,1,Si,Si,Si,Si,Si
+C0108,Femenino,26-35,San Salvador,Diamante,9059,39,TarjetaCredito,20,12,74,Alta,1,0,172,3,No,No,Si,No,No
+C0109,Femenino,26-35,Santa Ana,Plata,848,38,TarjetaCredito,22,17,47,Baja,3,0,90,5,No,No,No,Si,No
+C0110,Femenino,18-25,San Miguel,Diamante,7033,35,Recargas,10,1,66,Media,9,3,294,1,No,No,Si,Si,Si
+C0111,Masculino,46-60,Santa Tecla,Plata,802,38,Recargas,20,50,79,Alta,3,5,113,2,No,Si,No,No,Si
+C0112,Femenino,60+,Sonsonate,Oro,3721,68,Mixto,12,14,63,Alta,1,5,289,1,Si,Si,Si,Si,Si
+C0113,Femenino,60+,Sonsonate,Plata,310,59,PagoServicios,17,32,23,Ninguna,6,4,234,5,Si,No,No,Si,No
+C0114,Femenino,36-45,San Salvador,Oro,1300,8,Transferencias,30,28,88,Alta,7,5,17,3,No,Si,Si,No,Si
+C0115,Femenino,46-60,Sonsonate,Oro,2539,45,Transferencias,6,44,169,Media,8,4,202,5,Si,Si,Si,Si,Si
+C0116,Femenino,46-60,Usulutan,Plata,488,36,PagoServicios,30,16,117,Media,1,2,17,6,No,Si,Si,Si,No
+C0117,Masculino,18-25,Ahuachapan,Plata,712,30,TarjetaCredito,7,4,62,Alta,0,5,72,5,No,Si,No,No,Si
+C0118,Masculino,36-45,San Miguel,Diamante,8388,55,TarjetaCredito,16,20,70,Media,0,0,177,6,No,No,No,No,No
+C0119,Masculino,36-45,Apopa,Plata,650,8,TarjetaCredito,14,15,76,Media,6,5,286,5,Si,No,Si,No,No
+C0120,Masculino,36-45,Santa Ana,Diamante,5758,49,Mixto,20,35,48,Baja,9,0,21,1,Si,Si,No,Si,No
+C0121,Femenino,36-45,San Salvador,Plata,294,51,PagoServicios,18,8,122,Media,5,1,145,4,No,No,No,No,No
+C0122,Femenino,60+,Sonsonate,Plata,922,6,TarjetaCredito,28,49,81,Baja,3,1,75,1,No,No,No,Si,Si
+C0123,Masculino,36-45,Soyapango,Plata,953,63,Mixto,21,36,167,Baja,7,5,236,2,No,Si,Si,No,Si
+C0124,Masculino,60+,San Salvador,Plata,959,18,Mixto,8,43,12,Ninguna,1,0,363,2,Si,Si,No,No,No
+C0125,Masculino,60+,Ahuachapan,Diamante,5129,68,Mixto,9,1,136,Ninguna,8,4,147,1,No,Si,Si,Si,Si
+C0126,Masculino,26-35,Soyapango,Oro,4340,59,TarjetaCredito,8,18,101,Baja,3,0,154,6,Si,Si,Si,No,No
+C0127,Femenino,46-60,Usulutan,Plata,752,43,TarjetaCredito,28,11,21,Ninguna,1,3,271,1,Si,Si,No,No,Si
+C0128,Masculino,18-25,Santa Tecla,Oro,3696,76,PagoServicios,25,12,80,Media,6,0,40,3,Si,Si,No,No,No
+C0129,Femenino,26-35,Santa Ana,Plata,454,78,TarjetaCredito,20,28,59,Baja,6,0,168,1,No,No,No,Si,No
+C0130,Femenino,60+,Apopa,Plata,796,10,Transferencias,9,25,21,Baja,2,4,195,6,Si,No,No,No,Si
+C0131,Masculino,18-25,San Salvador,Diamante,11237,24,PagoPrestamos,15,18,26,Alta,8,1,285,5,No,Si,Si,Si,No
+C0132,Femenino,60+,Santa Ana,Plata,903,72,PagoServicios,19,1,74,Ninguna,8,3,87,6,No,Si,Si,No,Si
+C0133,Femenino,36-45,Sonsonate,Plata,271,32,Mixto,21,27,76,Alta,7,3,305,5,Si,No,Si,Si,Si
+C0134,Femenino,18-25,Apopa,Plata,735,77,PagoServicios,10,22,112,Ninguna,5,2,309,6,Si,No,No,Si,No
+C0135,Femenino,36-45,Santa Tecla,Oro,3012,51,Recargas,4,16,83,Baja,9,3,103,5,Si,Si,No,Si,No
+C0136,Femenino,36-45,Santa Ana,Oro,4257,20,Mixto,14,44,127,Baja,6,1,38,4,No,No,No,Si,Si
+C0137,Femenino,60+,Ahuachapan,Oro,1448,79,Transferencias,19,16,168,Baja,10,5,347,6,No,No,No,Si,Si
+C0138,Masculino,18-25,Santa Tecla,Plata,864,51,PagoPrestamos,25,38,176,Media,10,4,302,6,Si,No,Si,No,Si
+C0139,Masculino,36-45,Apopa,Diamante,11811,44,PagoPrestamos,26,47,36,Baja,3,2,267,4,No,No,Si,No,No
+C0140,Femenino,36-45,Santa Ana,Plata,929,22,Mixto,8,2,87,Alta,8,5,90,5,Si,No,No,No,Si
+C0141,Masculino,46-60,San Miguel,Plata,773,50,Transferencias,23,2,157,Ninguna,3,1,106,3,Si,Si,Si,No,Si
+C0142,Femenino,26-35,Sonsonate,Plata,786,76,Transferencias,12,34,163,Ninguna,5,2,235,5,Si,No,Si,Si,Si
+C0143,Femenino,18-25,Soyapango,Plata,287,74,PagoPrestamos,14,10,130,Ninguna,2,3,250,6,Si,Si,No,No,Si
+C0144,Masculino,26-35,Mejicanos,Oro,1220,72,TarjetaCredito,21,1,124,Media,7,1,210,6,No,No,No,No,No
+C0145,Masculino,18-25,Ahuachapan,Plata,879,59,TarjetaCredito,24,3,70,Baja,7,1,282,5,Si,Si,No,No,Si
+C0146,Masculino,46-60,Usulutan,Plata,535,58,Recargas,12,42,63,Alta,1,2,225,1,Si,Si,No,No,No
+C0147,Masculino,60+,San Miguel,Oro,1848,22,Recargas,23,4,145,Baja,4,2,149,5,No,Si,Si,No,Si
+C0148,Masculino,36-45,San Miguel,Oro,2023,74,Mixto,9,46,82,Ninguna,10,1,213,4,No,Si,Si,No,Si
+C0149,Femenino,36-45,Sonsonate,Diamante,5021,46,Transferencias,26,50,23,Ninguna,8,5,204,2,No,Si,No,No,Si
+C0150,Femenino,36-45,Mejicanos,Plata,233,59,Transferencias,4,32,87,Alta,2,5,226,4,Si,No,Si,Si,Si
+C0151,Femenino,26-35,Santa Tecla,Plata,469,40,Mixto,23,24,170,Media,3,5,220,6,Si,Si,Si,Si,Si
+C0152,Femenino,18-25,San Miguel,Plata,631,55,Mixto,5,1,2,Baja,7,5,37,2,No,Si,Si,Si,No
+C0153,Femenino,36-45,Santa Tecla,Plata,892,73,Transferencias,20,9,164,Media,10,5,85,4,No,Si,Si,No,Si
+C0154,Femenino,26-35,Santa Ana,Oro,4083,18,PagoServicios,9,38,98,Ninguna,10,2,44,2,No,Si,No,Si,Si
+C0155,Masculino,46-60,Santa Tecla,Oro,4678,77,Transferencias,17,16,126,Alta,0,3,185,3,Si,No,No,No,Si
+C0156,Masculino,46-60,Santa Ana,Plata,169,65,Recargas,21,14,10,Ninguna,8,0,213,4,No,Si,Si,No,No
+C0157,Masculino,36-45,Santa Ana,Plata,308,9,Recargas,23,10,137,Ninguna,6,2,123,1,Si,Si,No,Si,Si
+C0158,Femenino,60+,Ahuachapan,Plata,782,18,Mixto,1,48,44,Alta,2,0,255,3,No,Si,No,Si,No
+C0159,Femenino,18-25,San Salvador,Plata,539,66,Recargas,2,5,67,Alta,7,5,291,2,No,Si,No,Si,Si
+C0160,Masculino,26-35,Usulutan,Plata,979,20,PagoServicios,30,16,11,Baja,0,3,284,6,No,Si,No,Si,Si
+C0161,Femenino,36-45,Santa Tecla,Oro,2528,29,TarjetaCredito,2,33,172,Media,6,0,36,4,No,No,No,Si,No
+C0162,Femenino,18-25,Mejicanos,Plata,677,64,PagoServicios,24,48,159,Ninguna,8,1,126,2,Si,No,Si,Si,Si
+C0163,Femenino,18-25,Mejicanos,Plata,773,68,PagoServicios,14,48,78,Media,7,0,31,2,No,Si,Si,Si,No
+C0164,Femenino,36-45,Sonsonate,Diamante,5783,73,Transferencias,14,33,34,Ninguna,10,5,67,2,No,No,No,No,Si
+C0165,Femenino,36-45,Sonsonate,Plata,176,14,PagoServicios,15,9,149,Media,7,0,161,4,Si,No,Si,No,No
+C0166,Femenino,46-60,Santa Tecla,Oro,1646,42,PagoServicios,3,44,77,Alta,3,5,183,4,Si,No,No,Si,Si
+C0167,Masculino,46-60,Sonsonate,Plata,663,2,Transferencias,27,30,26,Alta,3,1,67,2,No,No,Si,No,No
+C0168,Masculino,18-25,Santa Ana,Plata,761,6,PagoPrestamos,2,9,23,Alta,2,2,294,4,No,No,Si,No,No
+C0169,Femenino,26-35,Mejicanos,Plata,291,38,PagoPrestamos,14,29,38,Media,8,0,246,1,Si,No,No,Si,No
+C0170,Femenino,26-35,Usulutan,Plata,921,63,Recargas,30,2,97,Baja,9,5,258,3,No,No,Si,Si,Si
+C0171,Femenino,60+,Soyapango,Plata,930,30,PagoServicios,4,4,120,Baja,3,4,337,2,No,Si,Si,No,Si
+C0172,Femenino,26-35,San Miguel,Plata,425,46,TarjetaCredito,19,45,91,Alta,2,4,289,2,No,No,Si,No,Si
+C0173,Masculino,18-25,San Salvador,Plata,324,17,Recargas,23,31,0,Media,2,2,166,1,Si,Si,Si,Si,No
+C0174,Femenino,18-25,Mejicanos,Oro,2621,21,Mixto,14,7,86,Baja,10,2,250,6,No,Si,No,Si,Si
+C0175,Masculino,46-60,Santa Tecla,Oro,1522,73,Transferencias,6,47,0,Ninguna,9,5,163,5,Si,Si,No,Si,No
+C0176,Femenino,18-25,Soyapango,Plata,427,34,PagoServicios,8,6,171,Baja,1,5,180,3,Si,Si,Si,No,Si
+C0177,Femenino,46-60,San Miguel,Oro,4612,74,Mixto,25,23,139,Alta,10,3,116,2,No,Si,Si,No,No
+C0178,Masculino,36-45,Santa Tecla,Diamante,6394,71,Transferencias,11,25,41,Alta,9,5,315,4,Si,No,Si,No,No
+C0179,Masculino,18-25,Santa Ana,Plata,294,13,Transferencias,13,36,138,Baja,9,2,282,4,Si,Si,No,Si,Si
+C0180,Femenino,18-25,Santa Tecla,Oro,3459,22,Mixto,10,13,24,Media,1,0,243,1,No,No,No,No,No
+C0181,Femenino,18-25,Usulutan,Plata,479,34,PagoPrestamos,15,24,47,Alta,4,3,116,3,Si,Si,Si,Si,No
+C0182,Femenino,60+,Apopa,Diamante,9536,61,TarjetaCredito,29,4,99,Ninguna,3,4,244,3,Si,No,Si,Si,No
+C0183,Masculino,46-60,San Miguel,Diamante,6736,11,Mixto,14,13,32,Ninguna,3,0,322,2,No,No,Si,Si,No
+C0184,Femenino,60+,Apopa,Plata,977,20,PagoServicios,19,30,3,Ninguna,9,5,299,1,Si,Si,No,No,Si
+C0185,Femenino,36-45,Apopa,Oro,3495,78,Mixto,23,3,44,Ninguna,6,2,20,4,No,Si,Si,No,Si
+C0186,Femenino,36-45,San Salvador,Plata,912,30,PagoServicios,10,18,125,Alta,7,5,165,3,No,Si,Si,No,No
+C0187,Masculino,46-60,Sonsonate,Oro,2532,65,PagoPrestamos,5,4,131,Alta,8,1,292,1,Si,Si,Si,Si,Si
+C0188,Masculino,18-25,Sonsonate,Plata,469,16,Mixto,1,18,94,Ninguna,3,3,191,4,No,Si,No,No,Si
+C0189,Femenino,26-35,Santa Tecla,Oro,1371,28,PagoServicios,21,2,98,Media,3,0,347,2,No,No,Si,Si,No
+C0190,Femenino,26-35,San Miguel,Oro,1917,49,Recargas,15,39,78,Baja,4,5,112,4,No,No,Si,Si,Si
+C0191,Femenino,60+,Ahuachapan,Oro,3804,42,Recargas,9,31,16,Baja,10,2,365,6,No,Si,Si,Si,No
+C0192,Masculino,60+,Apopa,Oro,1574,54,PagoPrestamos,13,2,167,Baja,0,3,299,6,Si,No,Si,No,Si
+C0193,Femenino,60+,Santa Tecla,Oro,3694,34,Mixto,26,12,75,Ninguna,8,0,94,6,No,Si,Si,No,Si
+C0194,Masculino,36-45,Apopa,Oro,2523,75,TarjetaCredito,20,38,75,Alta,1,3,242,2,Si,No,No,No,Si
+C0195,Masculino,26-35,San Miguel,Diamante,9665,11,PagoPrestamos,11,30,36,Media,10,2,91,3,Si,Si,No,No,No
+C0196,Masculino,26-35,Ahuachapan,Oro,4217,55,PagoPrestamos,14,50,22,Ninguna,7,1,197,1,Si,Si,No,Si,No
+C0197,Femenino,60+,Soyapango,Plata,104,14,PagoPrestamos,17,16,57,Baja,9,5,157,2,Si,Si,No,No,Si
+C0198,Femenino,60+,Ahuachapan,Plata,544,22,PagoPrestamos,1,9,87,Baja,3,3,115,6,Si,Si,Si,Si,Si
+C0199,Masculino,36-45,San Salvador,Plata,755,14,Mixto,27,35,159,Alta,0,0,25,6,Si,No,No,No,No
+C0200,Masculino,60+,Santa Tecla,Plata,256,13,Mixto,17,44,161,Baja,4,0,319,5,Si,No,Si,Si,Si
+C0201,Femenino,18-25,Santa Ana,Plata,723,38,PagoServicios,2,17,133,Baja,8,1,255,2,No,No,Si,Si,Si
+C0202,Masculino,18-25,Santa Ana,Oro,3024,33,Mixto,8,6,130,Alta,7,0,152,3,No,Si,Si,Si,No
+C0203,Masculino,36-45,Mejicanos,Oro,2745,18,Mixto,21,8,24,Alta,2,0,169,3,No,No,Si,No,No
+C0204,Femenino,26-35,Santa Ana,Plata,567,22,Transferencias,5,25,176,Ninguna,0,3,82,1,No,No,No,Si,Si
+C0205,Femenino,36-45,Ahuachapan,Plata,800,53,PagoPrestamos,2,47,33,Ninguna,1,3,134,6,No,Si,Si,No,Si
+C0206,Masculino,46-60,Soyapango,Plata,779,2,Mixto,30,25,38,Alta,2,4,259,4,No,Si,Si,No,No
+C0207,Femenino,26-35,Mejicanos,Diamante,6825,11,PagoPrestamos,15,36,164,Ninguna,9,3,230,1,No,No,No,Si,No
+C0208,Femenino,18-25,Santa Ana,Plata,136,72,PagoServicios,21,1,23,Baja,10,4,234,3,No,Si,Si,No,No
+C0209,Femenino,60+,Ahuachapan,Plata,833,29,Transferencias,11,46,115,Alta,5,0,325,3,No,Si,Si,Si,No
+C0210,Femenino,26-35,Apopa,Plata,725,25,Mixto,11,8,100,Ninguna,1,1,213,1,Si,No,No,Si,No
+C0211,Femenino,18-25,Usulutan,Oro,4832,23,Mixto,27,38,123,Media,2,4,54,4,No,No,No,Si,Si
+C0212,Femenino,46-60,Mejicanos,Diamante,6093,71,Recargas,23,9,105,Baja,8,4,324,2,Si,Si,No,No,No
+C0213,Masculino,26-35,Usulutan,Plata,752,54,Mixto,24,8,90,Ninguna,8,4,147,4,Si,Si,Si,No,Si
+C0214,Masculino,18-25,San Salvador,Plata,868,8,Mixto,26,19,174,Media,4,2,105,5,Si,No,No,Si,No
+C0215,Masculino,60+,Apopa,Plata,903,50,PagoPrestamos,26,45,73,Alta,10,5,161,5,Si,Si,No,Si,No
+C0216,Femenino,26-35,Mejicanos,Oro,4025,23,Mixto,3,13,49,Ninguna,2,2,89,6,Si,No,Si,No,No
+C0217,Femenino,60+,Santa Tecla,Plata,698,42,TarjetaCredito,2,1,84,Media,10,3,316,6,No,No,No,Si,Si
+C0218,Femenino,60+,Soyapango,Diamante,11442,29,PagoServicios,22,33,40,Ninguna,5,3,170,3,No,Si,No,Si,Si
+C0219,Masculino,36-45,Sonsonate,Plata,757,15,PagoPrestamos,9,16,10,Baja,8,5,145,1,No,No,No,Si,Si
+C0220,Femenino,26-35,Mejicanos,Plata,198,27,Mixto,21,35,136,Alta,3,0,351,4,Si,Si,No,Si,No
+C0221,Masculino,18-25,Sonsonate,Oro,1359,74,PagoServicios,30,4,45,Alta,4,2,209,4,No,No,No,No,No
+C0222,Masculino,46-60,Santa Ana,Plata,756,46,TarjetaCredito,4,5,149,Alta,4,0,352,3,Si,No,No,No,No
+C0223,Femenino,18-25,Sonsonate,Plata,325,39,Mixto,29,26,139,Media,10,2,192,1,Si,Si,Si,Si,No
+C0224,Femenino,60+,Usulutan,Diamante,11131,66,PagoServicios,6,48,88,Ninguna,2,1,114,5,No,Si,Si,Si,No
+C0225,Masculino,60+,Sonsonate,Oro,2191,75,PagoPrestamos,11,5,64,Media,5,0,66,6,Si,Si,No,Si,No
+C0226,Masculino,36-45,Sonsonate,Plata,731,55,PagoServicios,1,45,149,Baja,5,1,127,2,No,No,No,Si,No
+C0227,Femenino,46-60,Sonsonate,Plata,893,36,PagoServicios,29,36,27,Alta,8,1,101,3,Si,Si,Si,Si,No
+C0228,Femenino,60+,Soyapango,Diamante,9453,29,TarjetaCredito,24,35,120,Media,4,5,69,4,Si,No,No,Si,Si
+C0229,Masculino,60+,San Miguel,Oro,2828,62,Recargas,2,12,144,Media,3,4,250,2,Si,No,No,Si,Si
+C0230,Masculino,26-35,Usulutan,Diamante,8848,14,Mixto,17,30,11,Baja,10,0,141,6,No,Si,No,No,No
+C0231,Femenino,60+,Santa Ana,Plata,485,62,TarjetaCredito,1,34,103,Baja,8,2,72,4,Si,Si,Si,No,Si
+C0232,Masculino,26-35,San Miguel,Plata,716,15,PagoPrestamos,22,8,169,Ninguna,7,1,246,2,Si,No,Si,Si,No
+C0233,Masculino,26-35,Ahuachapan,Plata,237,24,TarjetaCredito,13,3,146,Alta,9,1,289,6,Si,No,Si,Si,Si
+C0234,Femenino,60+,Sonsonate,Oro,1899,80,Mixto,17,27,153,Media,4,1,86,6,No,No,Si,Si,No
+C0235,Femenino,46-60,San Miguel,Plata,307,23,PagoPrestamos,29,44,107,Alta,9,1,308,1,Si,Si,No,Si,No
+C0236,Masculino,46-60,Usulutan,Plata,995,49,Recargas,19,34,109,Ninguna,9,1,51,4,Si,No,No,Si,Si
+C0237,Masculino,36-45,Ahuachapan,Oro,2056,49,Mixto,7,1,1,Alta,5,4,210,3,Si,Si,No,No,Si
+C0238,Femenino,60+,Apopa,Plata,726,72,TarjetaCredito,16,26,52,Ninguna,4,3,158,5,No,No,Si,Si,Si
+C0239,Masculino,46-60,San Miguel,Plata,620,1,Transferencias,27,22,140,Alta,2,4,242,5,No,Si,Si,No,Si
+C0240,Masculino,36-45,Santa Ana,Oro,2575,77,Transferencias,25,40,167,Baja,2,4,328,4,No,Si,Si,No,Si
+C0241,Masculino,18-25,Ahuachapan,Plata,815,1,PagoServicios,3,11,172,Baja,4,0,205,3,No,No,Si,Si,Si
+C0242,Masculino,18-25,Usulutan,Plata,949,78,PagoServicios,15,23,88,Media,6,2,295,1,No,Si,No,Si,No
+C0243,Masculino,60+,Santa Tecla,Plata,219,49,TarjetaCredito,16,17,137,Baja,3,4,174,4,No,Si,No,Si,Si
+C0244,Femenino,18-25,Apopa,Oro,3773,2,Mixto,27,15,80,Baja,4,3,128,3,Si,No,No,Si,Si
+C0245,Masculino,46-60,Mejicanos,Plata,687,31,Mixto,8,48,174,Ninguna,4,1,106,2,Si,Si,No,Si,Si
+C0246,Masculino,18-25,Santa Ana,Oro,3018,41,PagoPrestamos,29,1,138,Ninguna,9,0,141,4,Si,No,No,Si,Si
+C0247,Masculino,18-25,Usulutan,Oro,4849,23,PagoPrestamos,4,3,128,Ninguna,8,2,236,3,Si,Si,Si,No,No
+C0248,Masculino,36-45,Mejicanos,Oro,1767,79,Recargas,12,17,60,Ninguna,2,2,256,4,Si,No,No,No,No
+C0249,Femenino,36-45,Sonsonate,Plata,234,72,PagoPrestamos,28,15,25,Baja,6,5,101,2,Si,No,Si,Si,No
+C0250,Femenino,46-60,San Miguel,Diamante,9236,73,Transferencias,13,35,80,Baja,1,3,354,2,Si,Si,No,No,Si
+C0251,Masculino,46-60,Mejicanos,Plata,468,78,PagoServicios,19,17,88,Ninguna,9,0,333,6,Si,No,No,No,Si
+C0252,Femenino,46-60,Santa Ana,Plata,393,79,TarjetaCredito,13,10,42,Baja,1,5,41,2,No,Si,No,No,Si
+C0253,Femenino,36-45,Ahuachapan,Oro,4636,24,Transferencias,5,50,92,Ninguna,3,5,339,3,Si,Si,Si,No,Si
+C0254,Masculino,18-25,Santa Ana,Diamante,5441,80,PagoServicios,3,2,101,Alta,10,4,200,3,Si,Si,No,No,Si
+C0255,Masculino,26-35,Usulutan,Oro,1144,70,Recargas,18,23,83,Ninguna,7,3,70,6,Si,No,No,No,No
+C0256,Femenino,46-60,Usulutan,Plata,191,39,Transferencias,1,24,105,Media,8,2,70,3,No,No,Si,No,No
+C0257,Femenino,36-45,San Salvador,Oro,2200,72,PagoPrestamos,13,15,1,Baja,3,4,84,6,No,No,Si,No,Si
+C0258,Masculino,46-60,Soyapango,Plata,919,69,Recargas,14,45,175,Baja,3,2,36,2,Si,No,Si,No,Si
+C0259,Femenino,36-45,Ahuachapan,Plata,428,37,Recargas,5,4,136,Media,7,0,5,2,Si,Si,Si,No,No
+C0260,Masculino,36-45,Apopa,Plata,918,19,Transferencias,9,30,178,Baja,6,0,37,5,No,Si,Si,No,Si
+C0261,Femenino,18-25,Santa Ana,Diamante,8153,26,PagoPrestamos,24,50,113,Alta,1,1,267,6,Si,No,No,No,No
+C0262,Femenino,26-35,San Salvador,Oro,3134,7,Mixto,7,17,123,Baja,1,5,121,6,No,No,Si,Si,Si
+C0263,Femenino,60+,Santa Ana,Plata,348,12,PagoServicios,6,38,176,Media,7,3,47,6,No,Si,Si,No,Si
+C0264,Masculino,60+,Santa Ana,Plata,338,49,Recargas,24,42,88,Media,2,3,129,1,No,No,No,No,Si
+C0265,Masculino,60+,San Miguel,Plata,431,20,PagoPrestamos,10,18,153,Media,4,4,278,3,No,Si,No,Si,Si
+C0266,Masculino,60+,Mejicanos,Oro,2314,64,TarjetaCredito,5,5,168,Ninguna,9,4,145,3,No,No,Si,Si,Si
+C0267,Masculino,18-25,San Miguel,Plata,132,74,Mixto,27,32,49,Alta,6,0,337,4,No,Si,No,Si,No
+C0268,Masculino,18-25,Soyapango,Oro,1328,48,Mixto,2,41,15,Ninguna,9,2,137,5,Si,Si,No,Si,No
+C0269,Masculino,60+,Santa Ana,Plata,336,73,Mixto,6,13,49,Media,8,4,286,4,Si,No,No,No,No
+C0270,Masculino,26-35,San Miguel,Plata,616,41,TarjetaCredito,11,11,136,Ninguna,5,4,212,6,No,No,Si,Si,No
+C0271,Femenino,60+,Santa Tecla,Plata,563,67,PagoServicios,29,1,8,Alta,4,2,4,3,Si,Si,No,Si,No
+C0272,Femenino,60+,Usulutan,Plata,685,47,TarjetaCredito,8,3,117,Media,3,2,132,3,Si,No,Si,Si,Si
+C0273,Femenino,46-60,San Miguel,Plata,806,74,PagoPrestamos,3,7,152,Baja,0,5,172,3,No,No,Si,Si,Si
+C0274,Masculino,46-60,San Salvador,Plata,142,20,Transferencias,22,37,38,Media,6,2,229,5,Si,Si,No,No,No
+C0275,Femenino,26-35,San Miguel,Plata,587,65,PagoPrestamos,25,4,140,Baja,2,3,70,4,Si,No,No,Si,Si
+C0276,Masculino,26-35,Santa Ana,Plata,540,55,Recargas,12,37,22,Ninguna,3,0,165,3,Si,No,Si,No,No
+C0277,Femenino,60+,San Miguel,Plata,937,15,Mixto,2,44,95,Alta,3,1,318,2,No,Si,No,Si,No
+C0278,Femenino,46-60,Sonsonate,Plata,314,80,Mixto,5,14,52,Baja,10,4,10,4,Si,No,Si,Si,Si
+C0279,Femenino,26-35,Ahuachapan,Plata,576,47,Transferencias,1,5,99,Baja,4,5,333,4,Si,No,Si,No,Si
+C0280,Femenino,60+,Usulutan,Plata,303,68,Recargas,11,36,5,Media,7,0,202,6,Si,Si,No,No,No
+C0281,Femenino,36-45,Soyapango,Diamante,11652,4,TarjetaCredito,9,4,160,Ninguna,3,2,78,3,No,Si,Si,No,No
+C0282,Masculino,46-60,Soyapango,Plata,536,18,TarjetaCredito,18,39,84,Media,10,3,104,2,No,Si,No,Si,Si
+C0283,Masculino,36-45,Santa Ana,Plata,836,41,PagoPrestamos,14,21,37,Alta,4,5,227,6,No,Si,Si,Si,No
+C0284,Masculino,26-35,San Salvador,Oro,3528,30,Mixto,1,39,145,Media,5,4,41,6,No,Si,No,No,Si
+C0285,Masculino,46-60,Sonsonate,Plata,267,29,Mixto,22,3,104,Baja,3,0,105,1,Si,No,No,No,No
+C0286,Femenino,26-35,Apopa,Plata,142,58,PagoPrestamos,27,25,80,Alta,0,3,126,5,No,Si,No,Si,Si
+C0287,Masculino,36-45,Sonsonate,Plata,411,7,Mixto,17,19,118,Ninguna,2,1,238,6,No,Si,Si,Si,Si
+C0288,Masculino,46-60,Apopa,Plata,125,33,Recargas,23,38,51,Alta,10,3,365,2,Si,Si,Si,No,No
+C0289,Femenino,18-25,Usulutan,Oro,4241,22,Recargas,19,40,40,Ninguna,10,3,77,2,Si,Si,Si,No,Si
+C0290,Femenino,36-45,Sonsonate,Plata,285,64,PagoPrestamos,18,13,0,Baja,0,4,312,4,Si,Si,No,No,Si
+C0291,Femenino,46-60,Santa Ana,Oro,2003,19,Transferencias,21,18,158,Media,5,5,19,2,Si,No,No,Si,Si
+C0292,Masculino,18-25,Apopa,Diamante,7330,75,Recargas,30,40,169,Media,0,5,48,3,No,No,No,Si,No
+C0293,Femenino,60+,Santa Ana,Plata,237,27,TarjetaCredito,2,18,84,Ninguna,1,4,293,6,Si,No,No,No,Si
+C0294,Femenino,36-45,Usulutan,Plata,738,24,TarjetaCredito,8,40,144,Ninguna,4,3,100,1,Si,Si,No,Si,Si
+C0295,Masculino,60+,Apopa,Plata,441,37,Recargas,26,41,54,Media,1,0,158,3,No,Si,Si,No,No
+C0296,Femenino,46-60,Ahuachapan,Oro,4409,5,Mixto,5,13,84,Ninguna,7,2,80,6,No,No,No,No,No
+C0297,Masculino,60+,Santa Tecla,Plata,794,46,Transferencias,5,35,4,Baja,4,1,16,3,No,Si,No,Si,No
+C0298,Masculino,36-45,Mejicanos,Oro,2696,39,PagoServicios,17,32,60,Ninguna,4,2,90,1,No,Si,Si,Si,No
+C0299,Femenino,60+,San Salvador,Oro,1632,19,Transferencias,27,22,123,Baja,8,5,347,2,Si,Si,No,No,Si
+C0300,Masculino,18-25,Santa Tecla,Diamante,9869,40,Transferencias,19,6,85,Alta,4,3,328,2,No,Si,Si,No,Si
+C0301,Femenino,60+,Mejicanos,Oro,1482,2,TarjetaCredito,18,10,40,Alta,8,2,53,2,No,No,No,Si,No
+C0302,Femenino,60+,Soyapango,Plata,418,4,PagoPrestamos,29,35,113,Media,10,0,26,1,No,Si,Si,No,No
+C0303,Femenino,26-35,Ahuachapan,Oro,4425,26,Mixto,25,45,114,Baja,10,4,274,1,No,Si,Si,No,Si
+C0304,Masculino,46-60,Santa Tecla,Oro,4140,79,Recargas,30,31,59,Media,5,1,201,2,No,No,No,No,No
+C0305,Masculino,18-25,Sonsonate,Plata,590,66,Transferencias,13,11,72,Media,1,2,167,5,Si,No,No,No,No
+C0306,Femenino,26-35,Ahuachapan,Plata,262,76,PagoPrestamos,26,25,16,Media,6,2,291,3,Si,Si,Si,No,No
+C0307,Masculino,60+,Ahuachapan,Plata,668,9,TarjetaCredito,4,29,45,Ninguna,10,2,306,4,No,No,Si,Si,No
+C0308,Masculino,26-35,Ahuachapan,Diamante,5002,58,TarjetaCredito,10,49,37,Media,6,5,316,5,No,Si,Si,No,No
+C0309,Femenino,60+,Santa Tecla,Diamante,7821,38,Transferencias,12,6,149,Ninguna,8,0,28,1,No,Si,No,Si,No
+C0310,Masculino,46-60,Ahuachapan,Plata,425,61,PagoServicios,7,26,97,Media,8,3,197,3,No,Si,No,Si,Si
+C0311,Masculino,18-25,Santa Ana,Oro,3955,18,Mixto,26,43,111,Alta,6,1,234,6,No,Si,No,No,No
+C0312,Femenino,46-60,Mejicanos,Plata,534,35,PagoPrestamos,30,37,127,Media,8,5,296,3,Si,Si,No,No,Si
+C0313,Masculino,60+,Sonsonate,Diamante,10982,67,TarjetaCredito,3,47,134,Ninguna,3,2,242,6,Si,No,Si,No,Si
+C0314,Masculino,46-60,Sonsonate,Plata,580,5,Mixto,30,22,107,Baja,9,2,156,6,No,Si,No,Si,Si
+C0315,Masculino,36-45,Ahuachapan,Plata,596,17,TarjetaCredito,9,33,19,Baja,4,2,132,1,Si,Si,Si,No,No
+C0316,Femenino,26-35,Santa Tecla,Oro,2987,19,TarjetaCredito,30,34,8,Alta,2,2,254,4,No,Si,No,Si,No
+C0317,Masculino,60+,Mejicanos,Plata,370,52,PagoPrestamos,10,8,13,Ninguna,7,1,273,2,No,No,No,No,No
+C0318,Masculino,60+,Apopa,Plata,916,69,Mixto,12,44,80,Alta,6,4,313,6,No,No,No,No,Si
+C0319,Masculino,36-45,Ahuachapan,Plata,891,24,Recargas,18,16,172,Media,0,4,345,1,Si,Si,No,Si,Si
+C0320,Masculino,46-60,Mejicanos,Plata,390,77,Mixto,29,3,6,Alta,3,4,307,6,Si,Si,Si,Si,Si
+C0321,Femenino,60+,San Miguel,Oro,1755,36,PagoPrestamos,23,19,119,Alta,10,5,166,3,Si,Si,No,Si,Si
+C0322,Femenino,46-60,Mejicanos,Diamante,11659,63,PagoServicios,20,17,45,Alta,6,3,92,6,No,Si,Si,No,No
+C0323,Masculino,60+,Santa Ana,Diamante,5847,3,PagoPrestamos,5,3,18,Baja,10,0,328,1,Si,No,No,Si,Si
+C0324,Femenino,46-60,Ahuachapan,Plata,824,9,TarjetaCredito,8,32,122,Ninguna,0,3,197,6,No,Si,No,No,No
+C0325,Femenino,46-60,San Salvador,Oro,1372,38,Mixto,7,35,87,Ninguna,2,0,284,1,No,Si,No,No,Si
+C0326,Masculino,36-45,Sonsonate,Plata,747,4,Mixto,19,13,35,Media,3,0,251,4,Si,No,No,No,No
+C0327,Masculino,18-25,Mejicanos,Plata,906,69,PagoServicios,24,26,30,Ninguna,9,1,120,1,Si,Si,No,Si,No
+C0328,Femenino,60+,San Salvador,Plata,764,13,PagoPrestamos,20,12,161,Baja,2,0,303,1,Si,Si,No,Si,No
+C0329,Masculino,26-35,Apopa,Plata,955,42,PagoServicios,25,26,83,Media,0,0,304,2,No,Si,Si,No,No
+C0330,Masculino,46-60,San Miguel,Oro,1676,13,Mixto,20,16,148,Media,6,0,81,1,No,Si,Si,Si,No
+C0331,Masculino,18-25,Ahuachapan,Oro,3841,35,TarjetaCredito,15,50,121,Media,6,5,123,2,Si,Si,No,Si,Si
+C0332,Femenino,36-45,Apopa,Plata,341,70,TarjetaCredito,8,34,24,Baja,7,4,321,6,Si,No,Si,Si,No
+C0333,Masculino,26-35,Sonsonate,Plata,263,33,Recargas,20,4,165,Baja,7,2,23,1,Si,Si,Si,Si,Si
+C0334,Femenino,60+,Santa Ana,Plata,340,42,PagoServicios,25,38,148,Ninguna,1,2,167,2,Si,Si,No,Si,Si
+C0335,Femenino,26-35,Santa Ana,Plata,596,48,PagoServicios,15,10,55,Ninguna,3,4,324,3,No,Si,No,Si,Si
+C0336,Masculino,60+,San Salvador,Plata,213,38,TarjetaCredito,6,30,107,Baja,10,1,314,2,Si,Si,No,No,Si
+C0337,Masculino,60+,Sonsonate,Oro,1060,29,TarjetaCredito,5,28,63,Baja,9,1,3,4,Si,Si,No,Si,Si
+C0338,Femenino,60+,Apopa,Plata,917,2,Mixto,24,7,115,Media,6,3,112,2,No,No,Si,Si,Si
+C0339,Masculino,46-60,Santa Tecla,Plata,570,18,Mixto,13,48,149,Ninguna,2,0,190,6,No,Si,Si,No,Si
+C0340,Femenino,60+,San Salvador,Plata,870,11,TarjetaCredito,29,40,138,Media,5,4,29,5,No,Si,Si,No,Si
+C0341,Femenino,46-60,Ahuachapan,Plata,475,18,Recargas,8,36,180,Media,8,0,59,6,No,Si,Si,No,No
+C0342,Femenino,36-45,Usulutan,Oro,1224,16,PagoPrestamos,23,24,88,Ninguna,8,3,348,5,No,No,No,Si,Si
+C0343,Masculino,46-60,Santa Ana,Plata,283,19,PagoPrestamos,5,7,42,Alta,3,2,267,6,Si,No,No,Si,No
+C0344,Femenino,36-45,Apopa,Plata,760,67,Mixto,11,13,16,Media,6,0,297,3,No,No,No,No,No
+C0345,Femenino,60+,San Miguel,Oro,1704,7,PagoServicios,12,17,58,Baja,4,3,234,2,Si,No,Si,Si,No
+C0346,Masculino,26-35,Soyapango,Plata,424,27,TarjetaCredito,23,29,66,Media,0,2,341,3,No,Si,No,No,No
+C0347,Masculino,60+,Santa Tecla,Plata,125,70,TarjetaCredito,11,50,37,Baja,10,3,362,3,No,No,Si,No,Si
+C0348,Femenino,18-25,Sonsonate,Diamante,9514,29,PagoPrestamos,12,8,78,Ninguna,1,0,168,1,Si,Si,No,Si,Si
+C0349,Masculino,18-25,Usulutan,Oro,3751,78,TarjetaCredito,2,33,100,Ninguna,10,1,185,4,Si,No,No,No,Si
+C0350,Femenino,18-25,Santa Tecla,Plata,415,54,PagoPrestamos,10,6,55,Ninguna,2,5,218,6,No,Si,Si,Si,Si
+C0351,Masculino,36-45,Sonsonate,Diamante,5542,53,Mixto,30,38,96,Alta,4,0,213,2,No,Si,Si,Si,No
+C0352,Femenino,36-45,Usulutan,Plata,942,1,PagoServicios,9,38,77,Ninguna,4,3,328,6,No,Si,No,No,Si
+C0353,Masculino,46-60,Soyapango,Plata,883,73,PagoPrestamos,28,5,153,Baja,4,5,322,6,No,Si,No,Si,Si
+C0354,Femenino,26-35,Ahuachapan,Plata,427,35,Recargas,14,9,91,Alta,10,1,183,1,No,No,Si,Si,No
+C0355,Masculino,18-25,Ahuachapan,Oro,2322,75,Recargas,27,44,77,Baja,2,2,7,2,No,No,No,No,Si
+C0356,Femenino,26-35,Santa Ana,Plata,615,10,Transferencias,27,13,143,Alta,2,4,9,4,No,No,No,Si,Si
+C0357,Femenino,60+,Usulutan,Oro,1706,29,PagoServicios,28,20,7,Alta,2,5,353,2,No,Si,Si,Si,No
+C0358,Masculino,46-60,Santa Ana,Plata,893,5,Mixto,17,28,10,Alta,9,1,31,4,Si,No,Si,Si,No
+C0359,Femenino,18-25,Santa Ana,Oro,1842,19,Mixto,9,13,47,Baja,9,5,179,3,Si,Si,Si,Si,Si
+C0360,Masculino,60+,Soyapango,Oro,1704,28,TarjetaCredito,28,35,1,Alta,7,5,188,6,Si,No,Si,Si,No
+C0361,Femenino,46-60,Apopa,Plata,333,18,PagoPrestamos,25,49,80,Ninguna,5,0,361,3,Si,Si,No,No,Si
+C0362,Masculino,46-60,Santa Tecla,Plata,853,55,PagoServicios,28,29,57,Ninguna,1,4,244,6,No,Si,Si,No,Si
+C0363,Masculino,46-60,Sonsonate,Plata,792,22,Transferencias,12,10,101,Alta,3,3,174,2,No,Si,Si,No,Si
+C0364,Femenino,36-45,Ahuachapan,Plata,874,52,PagoPrestamos,17,42,102,Ninguna,4,2,76,4,Si,Si,No,No,Si
+C0365,Femenino,26-35,San Miguel,Plata,855,49,TarjetaCredito,22,5,127,Alta,5,5,79,3,Si,Si,No,No,No
+C0366,Masculino,36-45,Sonsonate,Plata,367,56,Transferencias,13,35,139,Alta,7,0,162,4,No,No,Si,Si,No
+C0367,Masculino,60+,Santa Tecla,Oro,3014,15,TarjetaCredito,22,9,79,Ninguna,7,5,338,5,No,No,Si,Si,Si
+C0368,Femenino,36-45,Sonsonate,Plata,486,4,TarjetaCredito,2,23,72,Alta,2,2,188,3,Si,No,No,Si,No
+C0369,Femenino,36-45,Mejicanos,Plata,157,9,Recargas,4,16,60,Baja,5,5,87,1,No,Si,No,No,Si
+C0370,Femenino,36-45,San Salvador,Oro,1092,63,Transferencias,23,25,146,Baja,10,3,106,3,No,No,Si,No,Si
+C0371,Femenino,46-60,Soyapango,Plata,967,39,TarjetaCredito,13,5,137,Baja,3,1,320,6,Si,Si,No,No,Si
+C0372,Masculino,60+,Usulutan,Plata,314,70,Recargas,7,5,166,Baja,6,2,206,3,No,Si,Si,Si,Si
+C0373,Femenino,26-35,Sonsonate,Plata,753,47,PagoPrestamos,5,40,111,Alta,3,4,78,6,No,No,No,No,Si
+C0374,Masculino,26-35,Apopa,Plata,393,15,PagoServicios,7,17,175,Media,0,4,126,3,No,No,No,No,Si
+C0375,Masculino,26-35,San Miguel,Plata,129,6,Mixto,16,18,168,Media,0,4,29,1,No,No,Si,No,Si
+C0376,Femenino,18-25,Apopa,Diamante,6152,67,Mixto,27,16,28,Alta,9,4,269,3,No,Si,Si,Si,No
+C0377,Femenino,36-45,Ahuachapan,Oro,4066,14,PagoServicios,7,16,108,Media,4,1,226,4,No,Si,No,No,No
+C0378,Masculino,36-45,Usulutan,Plata,799,3,Mixto,29,10,92,Baja,9,3,18,6,Si,Si,No,No,No
+C0379,Femenino,36-45,Santa Ana,Plata,342,31,Recargas,7,25,2,Baja,2,3,225,6,No,No,Si,No,Si
+C0380,Masculino,46-60,Sonsonate,Oro,2363,65,Transferencias,12,28,25,Baja,6,1,309,6,No,No,Si,Si,No
+C0381,Masculino,46-60,San Miguel,Plata,304,21,PagoServicios,17,21,147,Alta,10,0,67,5,No,No,No,No,No
+C0382,Masculino,36-45,San Miguel,Oro,2342,48,PagoServicios,13,19,50,Ninguna,6,0,293,2,Si,Si,Si,Si,No
+C0383,Femenino,26-35,Santa Tecla,Oro,1204,48,PagoServicios,19,40,109,Baja,1,4,8,6,No,No,No,Si,Si
+C0384,Masculino,26-35,Soyapango,Diamante,7181,27,TarjetaCredito,7,19,126,Media,4,3,347,2,No,Si,No,Si,Si
+C0385,Masculino,36-45,Santa Tecla,Plata,561,61,PagoServicios,28,24,149,Ninguna,5,5,355,4,Si,No,No,No,Si
+C0386,Masculino,18-25,Usulutan,Plata,440,65,TarjetaCredito,13,31,90,Alta,4,4,203,6,No,Si,Si,Si,Si
+C0387,Femenino,26-35,Usulutan,Plata,447,19,Recargas,4,9,22,Ninguna,5,2,23,2,No,No,No,No,No
+C0388,Femenino,36-45,Ahuachapan,Oro,3118,20,TarjetaCredito,28,28,42,Ninguna,10,2,326,4,Si,Si,Si,Si,No
+C0389,Masculino,26-35,San Salvador,Plata,267,57,Recargas,23,28,29,Alta,8,3,249,4,No,Si,Si,Si,No
+C0390,Femenino,18-25,Soyapango,Oro,4420,75,Transferencias,17,48,130,Media,9,2,93,4,Si,Si,No,Si,No
+C0391,Femenino,18-25,Santa Tecla,Oro,1500,11,PagoPrestamos,27,24,151,Baja,10,0,246,4,No,Si,No,Si,Si
+C0392,Femenino,36-45,Ahuachapan,Plata,983,10,TarjetaCredito,20,42,72,Alta,6,2,48,4,No,Si,Si,No,No
+C0393,Masculino,18-25,Soyapango,Plata,898,39,PagoPrestamos,26,42,167,Alta,6,1,159,6,Si,No,Si,No,No
+C0394,Masculino,46-60,Sonsonate,Oro,2100,79,PagoServicios,14,39,108,Ninguna,10,0,219,1,Si,No,No,Si,No
+C0395,Masculino,46-60,Usulutan,Oro,1344,17,Mixto,29,30,111,Ninguna,4,0,128,5,No,No,Si,Si,Si
+C0396,Masculino,60+,Santa Ana,Plata,522,11,TarjetaCredito,1,43,145,Baja,1,2,339,4,Si,Si,No,Si,Si
+C0397,Masculino,46-60,Santa Tecla,Plata,841,24,PagoServicios,6,43,115,Baja,1,4,310,3,Si,No,Si,Si,Si
+C0398,Femenino,18-25,San Salvador,Plata,588,79,Recargas,23,26,168,Ninguna,10,5,354,6,No,No,Si,Si,Si
+C0399,Masculino,18-25,Soyapango,Plata,116,56,Mixto,28,2,53,Media,8,3,98,1,No,No,Si,No,Si
+C0400,Femenino,18-25,Santa Ana,Plata,256,75,PagoServicios,7,29,124,Alta,4,3,292,4,Si,No,Si,Si,No
+C0401,Femenino,46-60,Sonsonate,Oro,3995,76,Mixto,20,19,9,Ninguna,10,3,250,2,Si,Si,No,No,Si
+C0402,Masculino,36-45,Apopa,Oro,3027,37,Mixto,7,42,88,Ninguna,7,3,177,4,Si,Si,No,No,Si
+C0403,Masculino,36-45,Apopa,Diamante,10515,37,Mixto,24,42,92,Media,1,3,342,4,Si,Si,Si,Si,Si
+C0404,Femenino,18-25,Apopa,Diamante,6923,46,Recargas,12,14,142,Alta,10,0,82,2,Si,Si,No,No,No
+C0405,Masculino,60+,Soyapango,Plata,329,66,TarjetaCredito,22,22,90,Baja,1,0,362,1,No,No,Si,Si,No
+C0406,Masculino,60+,San Salvador,Plata,271,65,PagoPrestamos,24,14,92,Baja,1,1,79,6,No,No,Si,Si,Si
+C0407,Masculino,46-60,Apopa,Oro,2005,11,Recargas,12,31,87,Media,6,2,185,6,Si,Si,No,Si,No
+C0408,Masculino,46-60,Apopa,Diamante,11983,57,PagoServicios,25,34,174,Alta,0,2,265,1,Si,No,No,No,No
+C0409,Masculino,46-60,San Salvador,Plata,137,71,Recargas,24,10,147,Baja,5,0,177,1,No,Si,No,No,Si
+C0410,Masculino,60+,Ahuachapan,Oro,2812,11,Transferencias,18,23,166,Media,5,3,200,6,Si,No,Si,Si,No
+C0411,Femenino,60+,Mejicanos,Oro,1096,39,Mixto,14,35,151,Media,8,2,57,6,Si,No,No,No,No
+C0412,Masculino,18-25,Santa Ana,Plata,686,45,Recargas,10,30,86,Media,10,1,294,6,Si,No,Si,Si,No
+C0413,Femenino,60+,Ahuachapan,Plata,897,11,Transferencias,2,7,37,Ninguna,6,5,67,4,Si,No,Si,No,No
+C0414,Femenino,60+,Usulutan,Plata,504,63,Mixto,14,38,127,Ninguna,2,5,74,5,Si,No,No,Si,No
+C0415,Masculino,26-35,Sonsonate,Plata,864,48,TarjetaCredito,10,24,30,Ninguna,0,4,268,2,Si,No,No,No,Si
+C0416,Femenino,36-45,Sonsonate,Plata,246,28,PagoServicios,27,38,107,Baja,7,0,2,1,No,Si,Si,No,No
+C0417,Femenino,60+,Santa Tecla,Plata,445,65,Mixto,15,31,155,Media,7,1,342,4,Si,No,Si,No,No
+C0418,Femenino,26-35,Apopa,Plata,146,4,TarjetaCredito,21,29,71,Alta,4,5,288,6,Si,Si,Si,Si,No
+C0419,Masculino,46-60,Usulutan,Oro,3697,32,Mixto,27,12,4,Media,9,2,228,1,No,No,Si,No,No
+C0420,Masculino,36-45,Apopa,Plata,124,15,Transferencias,18,21,97,Alta,2,2,147,2,Si,No,Si,Si,No
+C0421,Femenino,46-60,San Miguel,Plata,433,13,Recargas,5,46,14,Ninguna,6,2,166,3,No,Si,Si,Si,No
+C0422,Masculino,60+,Ahuachapan,Plata,620,41,PagoPrestamos,18,25,29,Alta,6,2,34,4,Si,No,Si,Si,No
+C0423,Femenino,60+,Ahuachapan,Oro,4126,58,Transferencias,28,42,32,Ninguna,10,2,257,2,Si,No,Si,Si,No
+C0424,Femenino,60+,Sonsonate,Plata,932,62,Recargas,20,40,74,Media,4,5,349,4,No,Si,No,Si,Si
+C0425,Masculino,60+,Ahuachapan,Plata,191,27,TarjetaCredito,17,8,35,Baja,5,5,350,3,No,No,No,Si,No
+C0426,Femenino,36-45,Soyapango,Plata,713,78,PagoPrestamos,1,45,34,Alta,0,5,345,2,No,No,No,Si,No
+C0427,Masculino,60+,San Salvador,Oro,3751,77,Recargas,13,44,31,Ninguna,2,2,357,1,Si,No,No,Si,No
+C0428,Femenino,18-25,Soyapango,Oro,2152,79,Mixto,10,46,91,Alta,3,1,120,4,No,Si,No,No,No
+C0429,Masculino,18-25,Soyapango,Diamante,5909,25,Mixto,24,18,145,Ninguna,9,4,345,6,Si,Si,Si,Si,Si
+C0430,Masculino,36-45,Ahuachapan,Oro,3986,69,TarjetaCredito,9,18,49,Alta,10,5,287,4,Si,No,Si,No,No
+C0431,Femenino,46-60,Santa Tecla,Plata,630,7,Recargas,30,24,132,Media,6,0,273,4,No,Si,No,Si,No
+C0432,Femenino,18-25,Ahuachapan,Oro,1925,22,Recargas,10,28,19,Media,1,1,321,6,Si,Si,No,No,No
+C0433,Masculino,60+,Mejicanos,Oro,1442,31,Transferencias,25,16,87,Baja,9,0,318,4,Si,No,Si,Si,Si
+C0434,Masculino,18-25,Apopa,Plata,968,39,TarjetaCredito,21,9,15,Alta,6,3,34,1,Si,Si,No,No,No
+C0435,Femenino,18-25,Ahuachapan,Oro,4542,55,TarjetaCredito,20,43,159,Ninguna,1,0,174,6,Si,No,No,Si,Si
+C0436,Masculino,18-25,San Salvador,Plata,169,62,Mixto,20,13,146,Baja,7,1,96,2,Si,Si,Si,Si,Si
+C0437,Femenino,60+,Apopa,Plata,767,40,TarjetaCredito,11,20,149,Media,4,4,189,1,Si,Si,Si,Si,Si
+C0438,Femenino,36-45,Soyapango,Diamante,6649,60,TarjetaCredito,23,5,87,Ninguna,5,1,297,5,No,No,No,No,Si
+C0439,Masculino,18-25,Sonsonate,Oro,3032,28,PagoServicios,16,1,163,Media,5,1,193,2,No,Si,Si,No,Si
+C0440,Masculino,18-25,Mejicanos,Plata,217,4,PagoServicios,7,29,49,Baja,4,5,90,2,No,Si,No,Si,Si
+C0441,Masculino,26-35,San Salvador,Plata,368,15,Recargas,30,2,173,Ninguna,3,1,157,4,Si,No,No,Si,Si
+C0442,Femenino,18-25,Santa Ana,Plata,233,55,Mixto,8,13,136,Baja,0,3,316,5,Si,No,Si,No,Si
+C0443,Masculino,18-25,Santa Tecla,Oro,3082,61,Mixto,20,32,53,Alta,1,5,86,5,No,No,No,No,No
+C0444,Masculino,36-45,Mejicanos,Plata,594,75,Mixto,2,31,68,Ninguna,3,4,113,2,No,Si,No,Si,Si
+C0445,Femenino,46-60,Apopa,Plata,962,38,PagoPrestamos,17,36,21,Alta,5,1,118,5,Si,No,No,No,No
+C0446,Femenino,46-60,Apopa,Plata,923,57,PagoServicios,9,18,97,Media,10,0,39,3,Si,No,Si,No,No
+C0447,Masculino,18-25,Santa Ana,Plata,139,36,PagoServicios,23,22,50,Baja,9,5,71,6,No,Si,No,No,Si
+C0448,Femenino,46-60,Apopa,Oro,3685,30,PagoServicios,24,31,167,Media,3,4,243,2,No,No,No,Si,No
+C0449,Femenino,26-35,Apopa,Oro,2711,74,PagoServicios,10,29,115,Alta,0,4,256,6,No,No,Si,No,Si
+C0450,Femenino,46-60,Usulutan,Plata,701,78,TarjetaCredito,19,3,35,Baja,6,1,196,2,No,Si,No,Si,Si
+C0451,Femenino,18-25,Mejicanos,Plata,562,5,Mixto,20,6,43,Media,7,0,14,2,Si,Si,No,No,No
+C0452,Masculino,26-35,Santa Tecla,Oro,2863,42,PagoPrestamos,13,24,132,Media,2,0,57,2,No,No,Si,No,No
+C0453,Masculino,26-35,Soyapango,Plata,937,65,Mixto,22,31,40,Baja,7,4,142,2,Si,Si,No,Si,Si
+C0454,Femenino,60+,Soyapango,Plata,682,37,Mixto,29,30,118,Alta,7,4,178,6,No,No,Si,No,Si
+C0455,Masculino,26-35,Ahuachapan,Oro,2576,6,PagoServicios,29,12,178,Alta,2,4,141,6,No,Si,Si,No,Si
+C0456,Femenino,60+,Santa Ana,Diamante,5862,27,TarjetaCredito,2,33,83,Ninguna,7,3,14,1,No,No,No,No,Si
+C0457,Masculino,46-60,San Salvador,Plata,217,9,Transferencias,18,21,171,Ninguna,10,5,125,6,No,Si,No,No,Si
+C0458,Masculino,26-35,San Salvador,Oro,2205,2,Mixto,9,35,100,Alta,2,1,226,3,Si,Si,Si,Si,No
+C0459,Femenino,18-25,Usulutan,Oro,3704,1,Transferencias,25,25,176,Ninguna,6,2,104,2,No,Si,Si,Si,Si
+C0460,Masculino,46-60,San Salvador,Diamante,6575,13,Mixto,6,44,171,Media,2,0,23,4,Si,No,No,Si,No
+C0461,Masculino,60+,Apopa,Diamante,6752,2,PagoPrestamos,21,7,91,Media,5,2,7,4,Si,No,Si,Si,No
+C0462,Femenino,60+,Mejicanos,Plata,323,73,PagoServicios,9,50,153,Alta,1,3,308,3,No,Si,No,Si,Si
+C0463,Femenino,46-60,Santa Ana,Plata,723,2,PagoServicios,1,29,97,Media,9,4,64,3,Si,No,Si,Si,Si
+C0464,Masculino,26-35,Mejicanos,Plata,306,77,PagoPrestamos,24,14,164,Media,5,0,69,3,No,Si,No,No,No
+C0465,Masculino,26-35,Mejicanos,Plata,310,49,TarjetaCredito,11,43,63,Media,2,5,227,6,Si,Si,No,Si,Si
+C0466,Masculino,18-25,San Miguel,Diamante,6423,65,Transferencias,14,38,140,Media,7,1,160,2,Si,Si,No,Si,No
+C0467,Masculino,36-45,Santa Tecla,Plata,750,49,PagoServicios,16,31,20,Ninguna,7,2,217,5,No,Si,No,Si,No
+C0468,Femenino,46-60,Santa Ana,Oro,3438,60,Recargas,15,10,141,Media,4,5,193,5,No,Si,No,Si,Si
+C0469,Femenino,26-35,San Miguel,Diamante,9102,51,Mixto,12,47,95,Ninguna,6,3,251,3,Si,No,Si,Si,No
+C0470,Femenino,60+,San Miguel,Plata,546,48,Mixto,2,50,89,Ninguna,10,4,198,4,Si,Si,No,Si,Si
+C0471,Femenino,18-25,San Miguel,Plata,566,2,Transferencias,25,10,65,Media,1,1,330,6,No,No,Si,Si,No
+C0472,Femenino,26-35,Apopa,Plata,409,12,Transferencias,21,43,97,Baja,9,4,177,2,No,Si,No,No,Si
+C0473,Masculino,26-35,Sonsonate,Plata,171,22,PagoServicios,12,27,134,Baja,2,3,361,2,Si,No,Si,Si,Si
+C0474,Femenino,60+,Soyapango,Plata,160,57,Mixto,30,49,49,Ninguna,9,2,56,6,Si,Si,No,Si,No
+C0475,Femenino,18-25,Santa Tecla,Plata,130,35,Transferencias,22,31,124,Alta,9,5,22,1,Si,Si,No,No,Si
+C0476,Femenino,46-60,Mejicanos,Oro,2519,49,TarjetaCredito,2,22,80,Baja,5,1,170,1,Si,No,No,Si,Si
+C0477,Masculino,60+,Santa Ana,Oro,4896,61,TarjetaCredito,14,49,63,Ninguna,10,2,97,1,No,Si,No,Si,Si
+C0478,Femenino,46-60,Soyapango,Oro,4028,13,Mixto,13,6,89,Ninguna,4,3,311,2,Si,Si,Si,No,No
+C0479,Masculino,36-45,Usulutan,Diamante,8656,22,Mixto,23,8,123,Media,1,5,55,4,Si,Si,No,No,Si
+C0480,Femenino,26-35,Santa Tecla,Oro,1505,43,PagoServicios,30,9,136,Ninguna,9,5,308,1,No,No,No,No,Si
+C0481,Masculino,26-35,Santa Tecla,Plata,189,74,Recargas,5,22,151,Alta,5,1,195,5,Si,No,Si,Si,No
+C0482,Femenino,46-60,Mejicanos,Oro,3783,2,TarjetaCredito,28,9,133,Media,7,5,162,2,No,Si,No,No,Si
+C0483,Masculino,60+,Santa Tecla,Plata,781,16,Recargas,28,45,8,Baja,9,4,245,6,Si,No,No,No,Si
+C0484,Masculino,36-45,San Miguel,Oro,4474,23,PagoPrestamos,24,15,179,Alta,6,5,154,6,Si,Si,No,No,No
+C0485,Femenino,46-60,Mejicanos,Oro,1295,71,PagoPrestamos,4,47,72,Media,2,2,166,5,Si,No,No,Si,No
+C0486,Masculino,46-60,Sonsonate,Plata,248,47,Mixto,28,48,50,Alta,9,5,53,6,Si,No,No,Si,No
+C0487,Masculino,18-25,Mejicanos,Diamante,5430,20,Mixto,24,8,131,Baja,6,5,126,1,Si,Si,No,No,Si
+C0488,Femenino,60+,San Miguel,Oro,4178,49,Recargas,21,43,168,Ninguna,10,0,228,3,Si,Si,Si,Si,No
+C0489,Masculino,46-60,Usulutan,Plata,700,24,PagoPrestamos,16,31,70,Alta,10,5,360,4,No,Si,Si,No,Si
+C0490,Masculino,60+,San Miguel,Plata,817,75,TarjetaCredito,23,36,137,Ninguna,10,4,64,2,Si,Si,Si,Si,Si
+C0491,Femenino,36-45,Santa Ana,Plata,688,5,Transferencias,4,11,22,Baja,8,4,153,3,Si,No,Si,Si,No
+C0492,Femenino,18-25,Usulutan,Diamante,9376,67,Recargas,20,29,35,Ninguna,8,4,262,2,Si,Si,Si,Si,Si
+C0493,Masculino,26-35,Santa Tecla,Oro,4922,80,PagoPrestamos,3,39,141,Baja,8,1,131,3,No,Si,No,No,Si
+C0494,Masculino,36-45,Apopa,Diamante,6670,25,Mixto,12,5,161,Baja,9,5,337,6,Si,No,Si,No,No
+C0495,Femenino,46-60,San Salvador,Diamante,7213,12,Recargas,30,8,136,Ninguna,5,0,140,2,Si,No,Si,Si,Si
+C0496,Femenino,26-35,Apopa,Diamante,6012,63,Transferencias,17,12,134,Baja,5,5,359,5,No,No,Si,Si,Si
+C0497,Masculino,36-45,Apopa,Plata,925,17,Recargas,1,35,141,Ninguna,10,4,263,6,Si,Si,Si,No,Si
+C0498,Femenino,18-25,Mejicanos,Oro,3778,46,PagoPrestamos,17,27,180,Media,4,3,142,4,Si,No,Si,No,Si
+C0499,Femenino,36-45,Santa Ana,Oro,3990,11,Mixto,10,6,42,Alta,8,4,253,1,No,Si,No,No,No
+C0500,Masculino,46-60,San Salvador,Oro,4056,68,Mixto,20,46,108,Baja,0,5,311,4,Si,Si,Si,Si,Si
