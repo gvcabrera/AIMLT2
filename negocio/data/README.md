@@ -1,107 +1,114 @@
-# Dataset Churn Prediction - App Digital Financiera
+# README – Datasets para Machine Learning
 
-## Descripción
+## Descripción General
 
-Este dataset simula el comportamiento de clientes de una institución financiera que utilizan una aplicación digital. El objetivo es analizar los factores que influyen en el abandono de la aplicación y desarrollar modelos de Machine Learning para predecir qué clientes tienen mayor probabilidad de dejar de utilizarla.
+Este repositorio contiene dos datasets sintéticos diseñados para ejercicios académicos de Machine Learning orientados a negocio.
 
-El conjunto de datos contiene 500 registros de clientes simulados y una variable objetivo denominada **abandono**, la cual indica si el cliente abandonó o no el uso de la aplicación.
+Los conjuntos de datos permiten practicar:
 
-## Objetivo de Machine Learning
-
-### Variable objetivo (Target)
-
-**abandono**
-
-- Si = El cliente abandonó la aplicación
-- No = El cliente continúa utilizando la aplicación
-
-### Tipo de problema
-
-Clasificación binaria.
+- Definición de variables objetivo y predictoras.
+- Análisis Exploratorio de Datos (EDA).
+- Selección de algoritmos.
+- Entrenamiento y evaluación de modelos.
+- Interpretación de resultados desde una perspectiva de negocio.
 
 ---
 
-# Diccionario de Datos
+# Dataset 1: Churn Prediction de App Financiera
 
-## cliente_id
-Identificador único del cliente.
+Archivo:
 
-## genero
-Masculino o Femenino.
+`dataset_churn_app_financiera_500.csv`
 
-## rango_edad
-18-25, 26-35, 36-45, 46-60, 60+.
+## Objetivo de negocio
 
-## distrito
-Distrito principal del cliente en El Salvador.
+Identificar clientes con alta probabilidad de abandonar la aplicación digital de una institución financiera.
 
-## tipo_cliente
-Segmentación basada en monto transaccionado: Plata, Oro o Diamante.
+## Tipo de problema
 
-## monto_promedio_mensual
-Monto promedio mensual transaccionado (USD).
+Clasificación binaria.
 
-## cantidad_transacciones_mes
-Cantidad de transacciones realizadas durante el mes.
+## Variable objetivo (Y)
 
-## tipo_transaccion_frecuente
-Transferencias, PagoServicios, Recargas, PagoPrestamos, TarjetaCredito o Mixto.
+`abandono`
 
-## frecuencia_uso_app
-Cantidad estimada de días de uso de la aplicación durante el mes.
+Valores:
+- Si
+- No
 
-## sesiones_mes
-Cantidad de sesiones iniciadas en la aplicación.
+## Variables predictoras (X)
 
-## dias_desde_ultimo_login
-Días transcurridos desde el último acceso.
+cliente_id, genero, rango_edad, distrito, tipo_cliente, monto_promedio_mensual,
+cantidad_transacciones_mes, tipo_transaccion_frecuente, frecuencia_uso_app,
+sesiones_mes, dias_desde_ultimo_login, interaccion_promociones,
+promociones_abiertas, cantidad_quejas, ultima_queja_dias, productos_activos,
+uso_biometria, notificaciones_activas, uso_pago_servicios y uso_transferencias.
 
-## interaccion_promociones
-Alta, Media, Baja o Ninguna.
+## Casos de uso
 
-## promociones_abiertas
-Cantidad de promociones abiertas por el cliente.
+- Churn Prediction
+- Regresión Logística
+- Árboles de Decisión
+- Random Forest
+- Análisis de retención de clientes
 
-## cantidad_quejas
-Número de quejas registradas.
+---
 
-## ultima_queja_dias
-Días desde la última queja.
+# Dataset 2: Predicción de Ventas Retail
 
-## productos_activos
-Cantidad de productos financieros activos.
+Archivo:
 
-## uso_biometria
-Si / No.
+`retail_sales_demo_data.csv`
 
-## notificaciones_activas
-Si / No.
+## Objetivo de negocio
 
-## uso_pago_servicios
-Si / No.
+Predecir ventas mensuales de tiendas retail utilizando variables operativas, comerciales y del entorno.
 
-## uso_transferencias
-Si / No.
+## Tipo de problema
 
-## abandono
-Variable objetivo del modelo.
+Regresión.
 
-- Si = Cliente abandonó la aplicación.
-- No = Cliente continúa utilizando la aplicación.
+## Variable objetivo (Y)
 
-# Posibles Casos de Uso
+`monthly_sales`
 
-- Análisis Exploratorio de Datos (EDA).
-- Predicción de abandono de clientes.
-- Selección de variables.
-- Regresión logística.
-- Árboles de decisión.
-- Random Forest.
-- Evaluación de métricas de clasificación.
+Representa las ventas mensuales de cada tienda.
+
+## Variables predictoras (X)
+
+- store_id
+- year
+- month
+- month_index
+- is_holiday_month
+- ad_spend
+- foot_traffic
+- avg_price
+- staff_count
+- store_size_sqft
+- promo_days
+- competitors_within_3km
+- inventory_fill_rate
+- returns_rate
+- local_income_index
+- parking_spaces
+- store_age_years
+
+## Casos de uso
+
+- Predicción de ventas
+- Regresión Lineal
+- Random Forest Regressor
+- Planeación de inventario
+- Forecasting de ingresos
+- Análisis comercial
+
+---
 
 # Consideraciones
 
-- Dataset sintético generado con fines académicos.
-- No contiene información real de clientes.
-- No posee registros duplicados ni valores nulos.
-- Diseñado para ejercicios de analítica predictiva y Machine Learning.
+- Ambos datasets son sintéticos.
+- Fueron creados con fines educativos.
+- No contienen información real de clientes o empresas.
+- No contienen registros duplicados.
+- Están diseñados para ejercicios de Machine Learning aplicado a negocio.
