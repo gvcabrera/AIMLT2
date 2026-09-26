@@ -1,9 +1,9 @@
 # Casos Prácticos de Machine Learning Aplicado a Negocio
 
 Este proyecto contiene dos casos de estudio orientados a la aplicación de Machine Learning para resolver problemas de negocio mediante procesos de análisis, selección de algoritmos, exploración de datos y construcción de modelos predictivos.
-El proyecto fue realizado por Giovanni Cabrera y Rolando de Jesús Pineda (Equipo G) para resolver la tarea propuesta denominada "Clínica de Diagnóstico de Negocio" en el Bootcamp "AI Machine Learning Trainee 2"
----
+El proyecto fue realizado por **Giovanni Cabrera y Rolando de Jesús Pineda (Equipo G)** para resolver la tarea propuesta denominada ***"Clínica de Diagnóstico de Negocio" en el Bootcamp "AI Machine Learning Trainee 2"***
 
+---
 ## Caso A - Predicción de Abandono de Clientes
 
 Archivo:
